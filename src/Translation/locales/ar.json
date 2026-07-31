@@ -1,0 +1,9 @@
+{
+  "greeting": "مرحبًا، {{name}}!",
+  "home": {
+    "title": "أهلاً وسهلاً",
+    "subtitle": "سعداء بوجودك هنا"
+  },
+  "itemCount_one": "لديك عنصر واحد",
+  "itemCount_other": "لديك {{count}} عناصر"
+}

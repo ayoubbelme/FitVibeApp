@@ -1,0 +1,9 @@
+{
+  "greeting": "Hello, {{name}}!",
+  "home": {
+    "title": "Welcome",
+    "subtitle": "Glad you're here"
+  },
+  "itemCount_one": "You have {{count}} item",
+  "itemCount_other": "You have {{count}} items"
+}

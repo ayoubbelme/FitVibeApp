@@ -1,0 +1,9 @@
+{
+  "greeting": "Bonjour, {{name}} !",
+  "home": {
+    "title": "Bienvenue",
+    "subtitle": "Ravi de vous voir"
+  },
+  "itemCount_one": "Vous avez {{count}} article",
+  "itemCount_other": "Vous avez {{count}} articles"
+}
