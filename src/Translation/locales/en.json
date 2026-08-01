@@ -5,5 +5,23 @@
     "subtitle": "Glad you're here"
   },
   "itemCount_one": "You have {{count}} item",
-  "itemCount_other": "You have {{count}} items"
+  "itemCount_other": "You have {{count}} items",
+  "onboarding": {
+    "slide1": {
+      "title": "Welcome to FitVibe",
+      "subtitle": "Your journey to fitness starts here."
+    },
+    "slide2": {
+      "title": "Track Your Progress",
+      "subtitle": "Monitor your workouts and improvements."
+    },
+    "slide3": {
+      "title": "Stay Motivated",
+      "subtitle": "Get tips and encouragement along the way."
+    },
+    "alreadyRegistered": "Already registered?",
+    "login": "Log In",
+    "register": "Register",
+    "signIn": "Sign In"
+  }
 }

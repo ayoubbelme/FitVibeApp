@@ -5,5 +5,23 @@
     "subtitle": "Ravi de vous voir"
   },
   "itemCount_one": "Vous avez {{count}} article",
-  "itemCount_other": "Vous avez {{count}} articles"
+  "itemCount_other": "Vous avez {{count}} articles",
+  "onboarding": {
+    "slide1": {
+      "title": "Bienvenue sur FitVibe",
+      "subtitle": "Votre parcours vers la forme commence ici."
+    },
+    "slide2": {
+      "title": "Suivez vos progrès",
+      "subtitle": "Surveillez vos entraînements et vos améliorations."
+    },
+    "slide3": {
+      "title": "Restez motivé",
+      "subtitle": "Recevez des conseils et de l'encouragement tout au long du chemin."
+    },
+    "alreadyRegistered": "Déjà inscrit ?",
+    "login": "Se connecter",
+    "register": "S'inscrire",
+    "signIn": "Se connecter"
+  }
 }
