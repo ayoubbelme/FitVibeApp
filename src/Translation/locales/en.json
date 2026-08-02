@@ -8,20 +8,24 @@
   "itemCount_other": "You have {{count}} items",
   "onboarding": {
     "slide1": {
+      "feature": "Workout Tracking",
       "title": "Welcome to FitVibe",
       "subtitle": "Your journey to fitness starts here."
     },
     "slide2": {
+      "feature": "Daily Motivation",
       "title": "Track Your Progress",
       "subtitle": "Monitor your workouts and improvements."
     },
     "slide3": {
+      "feature": "Community Support",
       "title": "Stay Motivated",
       "subtitle": "Get tips and encouragement along the way."
     },
     "alreadyRegistered": "Already registered?",
     "login": "Log In",
     "register": "Register",
-    "signIn": "Sign In"
+    "signIn": "Sign In",
+    "getStarted": "Get Started"
   }
 }

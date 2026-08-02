@@ -8,20 +8,24 @@
   "itemCount_other": "لديك {{count}} عناصر",
   "onboarding": {
     "slide1": {
+      "feature": "تتبع التمارين",
       "title": "مرحبًا بك في FitVibe",
       "subtitle": "رحلتك نحو اللياقة البدنية تبدأ هنا."
     },
     "slide2": {
+      "feature": "التحفيز اليومي",
       "title": "تتبع تقدمك",
       "subtitle": "راقب تمارينك وتحسيناتك."
     },
     "slide3": {
+      "feature": "الدعم المجتمعي",
       "title": "ابق متحمسًا",
       "subtitle": "احصل على نصائح وتشجيع على طول الطريق."
     },
     "alreadyRegistered": "هل أنت مسجل بالفعل؟",
     "login": "تسجيل الدخول",
     "register": "تسجيل",
-    "signIn": "تسجيل الدخول"
+    "signIn": "تسجيل الدخول",
+    "getStarted": "ابدأ الآن"
   }
 }

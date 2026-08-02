@@ -73,7 +73,7 @@ export const darkTheme: Theme = {
   background: '#121212',
   text: '#F2F2F2',
   subtitle: '#B0B0B0',
-  primary: '#6FA8FF',
+  primary: '#ff1111',
   card: '#1E1E1E',
   border: '#2C2C2C',
   buttonText: '#FFFFFF',
